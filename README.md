@@ -30,3 +30,6 @@ A guide on how to work with a lot of people of all levels on awesome projects.
 - What did you learn? Write it down, post it and share it to people.
 - Make the code into something re-usable and document it.
 - Comment the code to make it easier for others to replicate.
+
+# Want to contribute?
+- Make a pull request!
