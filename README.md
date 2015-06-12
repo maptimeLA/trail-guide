@@ -2,7 +2,6 @@
 
 A guide on how to work with a lot of people of all levels on awesome projects.
 
-
 # Materials
 1. Butcher paper
 2. Pens, pencils
@@ -23,6 +22,8 @@ A guide on how to work with a lot of people of all levels on awesome projects.
 - Use a big piece of paper to brainstorm, wireframe and draw out flows. Visual is easier to talk about!
 - Keep it simple: Try to focus on one single user's use case. For now.
 - Make a list of the most important tasks, and expand them to other types of tasks like: copy (coming up with fun names, slogans, instructions), researching data, cleaning data, documentation, README, cleaning up the code, coming up with images for the presentation... endless!
+
+# Keeping code clean and happy
 
 # Working on the project
 - Pair people up as much as possible. 
